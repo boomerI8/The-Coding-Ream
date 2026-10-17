@@ -1,0 +1,6 @@
+{
+  "name": "CodeQuest - Gamified Coding Adventure",
+  "description": "An interactive fantasy-sci-fi coding adventure website teaching full-stack web development from zero to job-ready with live code runners, quests, and boss battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
